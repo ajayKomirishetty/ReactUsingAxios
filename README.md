@@ -1,6 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project uses Axios to Asynchronously call API's and render data.
 
-## Available Scripts
+I have created one more rails (API only) Project and have exposed required API's for this react application to consume
+
+ ## Available Scripts
 
 In the project directory, you can run:
 
